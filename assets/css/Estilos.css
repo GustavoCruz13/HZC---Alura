@@ -32,6 +32,8 @@ body{
     width: 40px;
 }
 
+/* Menu Lateral */
+
 .menu-lateral{
     display: flex;
     flex-direction: column;
