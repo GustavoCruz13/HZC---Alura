@@ -129,6 +129,9 @@ left: 0;
     display: grid;
     grid-template-columns: auto 1fr;
     gap: 8px;
+
+    width: 328px;
+    height: 208px;
 }
 
 .cartao__titulo{
@@ -172,6 +175,7 @@ left: 0;
     height: 40px;
     border-radius: 10px;
     font-size: 0.9rem;
+    justify-self: end;
 }
 
 .cartao__botao--play::before{
@@ -186,4 +190,33 @@ left: 0;
 
 .cartao__botao--destaque::before{
     margin-right: 8px;
+}
+
+/* Configurando os Cartões (Destaques e Mais Videos) */
+.secao{
+    display: grid;
+    gap: 16px;
+}
+
+.titulo-secao{
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
+.cartao__info--valor::before{
+    content: "\e905";
+    margin-right: 8px;
+}
+
+.cartao__botao--produtos::before{
+    content: "\e901";
+    font-size: 24px;
+}
+
+.cartao__conteudo--cards{
+    padding: 16px;
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 12px;
+    
 }
