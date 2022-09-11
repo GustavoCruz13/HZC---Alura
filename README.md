@@ -23,7 +23,7 @@ Here are the technologies used in this project.
 ### 1 - When you access in desk version, you will see the Home page 
 
 ![Homepage image](https://github.com/GustavoCruz13/HZC---Alura/blob/main/assets/img/home1.png)
-![] (https://github.com/GustavoCruz13/HZC---Alura/blob/main/assets/img/home2.png)
+![](https://github.com/GustavoCruz13/HZC---Alura/blob/main/assets/img/home2.png)
 
 
 
